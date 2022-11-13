@@ -1,0 +1,90 @@
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.exe
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 3\Cadastro Pessoa\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.exe
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 4\cadastro pessoa\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.exe
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\bin\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 5\cadastro pessoa\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\bin\Debug\net6.0\Cadastro Pessoa.exe
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\bin\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\bin\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 6\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\bin\Debug\net6.0\Cadastro Pessoa.exe
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\bin\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\bin\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 7\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\bin\Debug\net6.0\Cadastro Pessoa.exe
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\bin\Debug\net6.0\Cadastro Pessoa.dll
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\bin\Debug\net6.0\Cadastro Pessoa.pdb
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+C:\Users\paulo\Desktop\SENAI\cod back end\UC9\encontro remoto 8\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
